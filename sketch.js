@@ -83,7 +83,7 @@ function draw() {
   rect(mouseX - 30, mouseY + 173, 20, 10);
   rect(mouseX +30, mouseY + 173, 20, 10);
 
-  // efecto de circulo
+  // efecto de cuadrado
   noFill();
   stroke(mouseY,mouseX,170);
   rect(mouseX, mouseY, mouseX, mouseY);
