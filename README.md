@@ -10,13 +10,13 @@ Además con ese proyecto aprendí a vincular mi ambiente de desarrolo lcoal con 
 
 ### Notas de Clase
 
-para vincular el archivo de javascript principal cn mi proyecto en el archivo de HTML debo usar la etiqueta `<script>` de la siguiente manera :
+Para vincular el archivo de javascript principal con mi proyecto en el archivo de HTML debo usar la etiqueta `<script>` de la siguiente manera :
 
 ```html
 <script src="sketch.js"></script>
 ```
 
-Para hacer un rectagunlo uso la funcion `rect()` de la siguiente forma
+Para hacer un rectángulo uso la funcion `rect()` de la siguiente forma
 
 ```js
 rect(200, 200, 200, 200);
